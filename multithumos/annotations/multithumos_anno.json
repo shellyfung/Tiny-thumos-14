@@ -1,0 +1,5065 @@
+{
+    "database": {
+        "video_test_0000004": {
+            "duration": 33.826,
+            "frame": 1012,
+            "subset": "validation",
+            "annotations": [
+                {
+                    "label": "Jump",
+                    "segment": [
+                        0.23,
+                        0.93
+                    ]
+                },
+                {
+                    "label": "Jump",
+                    "segment": [
+                        19.33,
+                        20.37
+                    ]
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        0.2,
+                        1.1
+                    ]
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        11.4,
+                        12.2
+                    ]
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        18.6,
+                        20.8
+                    ]
+                },
+                {
+                    "label": "CricketBowling",
+                    "segment": [
+                        28.3,
+                        29.7
+                    ]
+                },
+                {
+                    "label": "CricketShot",
+                    "segment": [
+                        1.0,
+                        1.5
+                    ]
+                },
+                {
+                    "label": "CricketShot",
+                    "segment": [
+                        20.8,
+                        22.3
+                    ]
+                },
+                {
+                    "label": "CricketShot",
+                    "segment": [
+                        30.3,
+                        31.7
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        3.0,
+                        4.7
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        6.33,
+                        8.07
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        26.43,
+                        28.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        0.03,
+                        1.1
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        12.3,
+                        15.5
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        0.33,
+                        1.13
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        11.33,
+                        12.7
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        19.67,
+                        21.1
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        28.1,
+                        29.57
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        9.33,
+                        11.33
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        18.67,
+                        19.27
+                    ]
+                }
+            ]
+        },
+        "video_test_0000006": {
+            "duration": 67.106,
+            "frame": 2010,
+            "subset": "validation",
+            "annotations": [
+                {
+                    "label": "Jump",
+                    "segment": [
+                        11.47,
+                        12.23
+                    ]
+                },
+                {
+                    "label": "Jump",
+                    "segment": [
+                        36.2,
+                        55.8
+                    ]
+                },
+                {
+                    "label": "Jump",
+                    "segment": [
+                        55.93,
+                        56.63
+                    ]
+                },
+                {
+                    "label": "Jump",
+                    "segment": [
+                        60.47,
+                        61.23
+                    ]
+                },
+                {
+                    "label": "Jump",
+                    "segment": [
+                        61.97,
+                        62.87
+                    ]
+                },
+                {
+                    "label": "Jump",
+                    "segment": [
+                        63.0,
+                        63.5
+                    ]
+                },
+                {
+                    "label": "VolleyballServe",
+                    "segment": [
+                        10.0,
+                        11.0
+                    ]
+                },
+                {
+                    "label": "VolleyballServe",
+                    "segment": [
+                        59.0,
+                        60.0
+                    ]
+                },
+                {
+                    "label": "HighFive",
+                    "segment": [
+                        57.43,
+                        59.43
+                    ]
+                },
+                {
+                    "label": "HighFive",
+                    "segment": [
+                        64.37,
+                        66.57
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        0.03,
+                        1.2
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        66.97,
+                        67.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        7.53,
+                        66.73
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        57.63,
+                        59.43
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        64.27,
+                        66.9
+                    ]
+                },
+                {
+                    "label": "VolleyballSet",
+                    "segment": [
+                        11.0,
+                        51.0
+                    ]
+                },
+                {
+                    "label": "VolleyballSet",
+                    "segment": [
+                        60.0,
+                        62.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        7.53,
+                        11.07
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        62.0,
+                        66.0
+                    ]
+                },
+                {
+                    "label": "VolleyballSpiking",
+                    "segment": [
+                        18.8,
+                        57.3
+                    ]
+                },
+                {
+                    "label": "VolleyballBlock",
+                    "segment": [
+                        36.0,
+                        56.0
+                    ]
+                },
+                {
+                    "label": "VolleyballBlock",
+                    "segment": [
+                        61.0,
+                        63.0
+                    ]
+                },
+                {
+                    "label": "FistPump",
+                    "segment": [
+                        5.77,
+                        6.7
+                    ]
+                },
+                {
+                    "label": "FistPump",
+                    "segment": [
+                        64.77,
+                        65.1
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        11.37,
+                        55.83
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        60.03,
+                        66.47
+                    ]
+                }
+            ]
+        },
+        "video_test_0000007": {
+            "duration": 482.845,
+            "frame": 14482,
+            "subset": "validation",
+            "annotations": [
+                {
+                    "label": "BodyTurn",
+                    "segment": [
+                        3.87,
+                        28.67
+                    ]
+                },
+                {
+                    "label": "JavelinThrow",
+                    "segment": [
+                        275.6,
+                        278.8
+                    ]
+                },
+                {
+                    "label": "JavelinThrow",
+                    "segment": [
+                        281.3,
+                        284.6
+                    ]
+                },
+                {
+                    "label": "JavelinThrow",
+                    "segment": [
+                        310.2,
+                        313.2
+                    ]
+                },
+                {
+                    "label": "JavelinThrow",
+                    "segment": [
+                        316.5,
+                        319.3
+                    ]
+                },
+                {
+                    "label": "JavelinThrow",
+                    "segment": [
+                        347.4,
+                        349.8
+                    ]
+                },
+                {
+                    "label": "JavelinThrow",
+                    "segment": [
+                        351.5,
+                        354.7
+                    ]
+                },
+                {
+                    "label": "JavelinThrow",
+                    "segment": [
+                        358.8,
+                        362.5
+                    ]
+                },
+                {
+                    "label": "JavelinThrow",
+                    "segment": [
+                        390.7,
+                        394.6
+                    ]
+                },
+                {
+                    "label": "JavelinThrow",
+                    "segment": [
+                        398.9,
+                        402.2
+                    ]
+                },
+                {
+                    "label": "JavelinThrow",
+                    "segment": [
+                        431.3,
+                        434.5
+                    ]
+                },
+                {
+                    "label": "JavelinThrow",
+                    "segment": [
+                        436.4,
+                        439.9
+                    ]
+                },
+                {
+                    "label": "JavelinThrow",
+                    "segment": [
+                        468.4,
+                        472.3
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        296.0,
+                        310.0
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        260.03,
+                        275.43
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        280.23,
+                        281.13
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        296.03,
+                        304.43
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        314.1,
+                        316.5
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        330.57,
+                        347.37
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        355.17,
+                        358.87
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        382.63,
+                        390.73
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        396.47,
+                        397.0
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        421.73,
+                        431.3
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        435.23,
+                        436.33
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        450.9,
+                        468.5
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        479.73,
+                        482.73
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        85.03,
+                        93.73
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        95.37,
+                        105.57
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        106.87,
+                        123.07
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        166.23,
+                        171.1
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        182.47,
+                        189.37
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        190.73,
+                        193.2
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        195.93,
+                        200.2
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        204.23,
+                        208.37
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        221.47,
+                        244.17
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        351.07,
+                        351.4
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        125.23,
+                        129.63
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        133.63,
+                        138.43
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        140.7,
+                        156.4
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        167.4,
+                        171.5
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        175.03,
+                        178.6
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        183.17,
+                        188.57
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        191.03,
+                        192.93
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        5.0,
+                        85.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        94.0,
+                        95.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        106.0,
+                        107.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        123.0,
+                        125.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        129.0,
+                        134.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        139.0,
+                        141.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        157.0,
+                        166.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        171.0,
+                        175.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        179.0,
+                        183.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        189.0,
+                        191.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        193.0,
+                        196.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        200.0,
+                        204.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        208.0,
+                        221.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        244.0,
+                        247.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        1.6,
+                        5.17
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        252.43,
+                        260.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        284.53,
+                        295.8
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        319.8,
+                        330.33
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        362.47,
+                        372.83
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        394.23,
+                        396.2
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        397.3,
+                        421.63
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        439.53,
+                        451.03
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        471.4,
+                        479.53
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        250.6,
+                        251.03
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        277.2,
+                        277.93
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        282.7,
+                        283.47
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        311.97,
+                        312.7
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        317.87,
+                        318.5
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        348.63,
+                        349.3
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        352.13,
+                        352.8
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        360.13,
+                        360.8
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        392.03,
+                        392.67
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        400.0,
+                        400.67
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        432.6,
+                        433.27
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        437.5,
+                        438.13
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        469.73,
+                        470.37
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        248.87,
+                        250.57
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        251.07,
+                        252.07
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        275.5,
+                        277.17
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        277.97,
+                        279.07
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        281.2,
+                        282.67
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        283.5,
+                        284.27
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        304.5,
+                        313.6
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        316.53,
+                        317.83
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        318.53,
+                        319.63
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        347.4,
+                        348.6
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        349.33,
+                        350.47
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        351.43,
+                        352.1
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        352.83,
+                        353.77
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        358.9,
+                        360.1
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        360.83,
+                        361.83
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        367.6,
+                        382.57
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        390.73,
+                        392.0
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        392.7,
+                        393.87
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        398.8,
+                        399.97
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        400.7,
+                        401.83
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        431.3,
+                        432.57
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        433.3,
+                        434.33
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        436.37,
+                        437.47
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        438.17,
+                        439.17
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        468.53,
+                        469.7
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        470.4,
+                        471.37
+                    ]
+                }
+            ]
+        },
+        "video_test_0000011": {
+            "duration": 79.201,
+            "frame": 2373,
+            "subset": "validation",
+            "annotations": [
+                {
+                    "label": "Stand",
+                    "segment": [
+                        0.03,
+                        10.2
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        15.2,
+                        29.8
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        34.77,
+                        46.43
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        48.5,
+                        49.97
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        48.8,
+                        58.67
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        61.73,
+                        63.07
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        61.73,
+                        79.1
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        10.6,
+                        12.37
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        15.97,
+                        17.63
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        31.07,
+                        34.03
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        42.87,
+                        61.7
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        78.27,
+                        79.1
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        0.03,
+                        5.43
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        12.53,
+                        15.17
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        18.67,
+                        19.63
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        21.9,
+                        22.5
+                    ]
+                },
+                {
+                    "label": "ShotPutBend",
+                    "segment": [
+                        4.13,
+                        10.03
+                    ]
+                },
+                {
+                    "label": "ShotPutBend",
+                    "segment": [
+                        25.17,
+                        30.53
+                    ]
+                },
+                {
+                    "label": "ShotPutBend",
+                    "segment": [
+                        53.6,
+                        58.67
+                    ]
+                },
+                {
+                    "label": "ShotPutBend",
+                    "segment": [
+                        68.9,
+                        76.27
+                    ]
+                },
+                {
+                    "label": "Shotput",
+                    "segment": [
+                        0.4,
+                        12.4
+                    ]
+                },
+                {
+                    "label": "Shotput",
+                    "segment": [
+                        15.2,
+                        32.0
+                    ]
+                },
+                {
+                    "label": "Shotput",
+                    "segment": [
+                        40.7,
+                        60.0
+                    ]
+                },
+                {
+                    "label": "Shotput",
+                    "segment": [
+                        61.8,
+                        77.9
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        10.0,
+                        10.93
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        30.47,
+                        31.83
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        58.43,
+                        59.77
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        76.07,
+                        77.43
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        32.47,
+                        34.03
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        12.4,
+                        14.03
+                    ]
+                }
+            ]
+        },
+        "video_test_0000026": {
+            "duration": 207.906,
+            "frame": 6234,
+            "subset": "validation",
+            "annotations": [
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        5.33,
+                        38.67
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        67.97,
+                        75.57
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        97.6,
+                        115.03
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        128.1,
+                        141.83
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        164.03,
+                        172.87
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        42.7,
+                        43.4
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        44.8,
+                        46.9
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        48.5,
+                        50.4
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        51.5,
+                        52.8
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        53.7,
+                        54.3
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        56.3,
+                        58.1
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        59.9,
+                        61.7
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        63.2,
+                        65.3
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        66.7,
+                        67.6
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        75.7,
+                        76.9
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        78.8,
+                        80.0
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        81.1,
+                        82.5
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        84.5,
+                        85.7
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        90.0,
+                        90.9
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        94.8,
+                        96.4
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        117.7,
+                        119.7
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        120.7,
+                        122.1
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        123.8,
+                        125.2
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        126.5,
+                        128.0
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        142.4,
+                        143.8
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        145.2,
+                        146.8
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        149.0,
+                        150.2
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        152.2,
+                        153.4
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        155.0,
+                        156.4
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        158.6,
+                        159.7
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        161.7,
+                        162.5
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        173.1,
+                        174.6
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        176.6,
+                        177.9
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        179.5,
+                        180.6
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        182.0,
+                        183.7
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        185.7,
+                        186.9
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        187.4,
+                        188.2
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        190.4,
+                        191.6
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        193.3,
+                        194.3
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        195.9,
+                        197.0
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        198.7,
+                        200.7
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        201.4,
+                        203.9
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        204.9,
+                        206.1
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        5.33,
+                        38.67
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        67.97,
+                        75.57
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        97.6,
+                        115.03
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        128.1,
+                        141.83
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        164.03,
+                        172.87
+                    ]
+                },
+                {
+                    "label": "PickUp",
+                    "segment": [
+                        87.17,
+                        87.93
+                    ]
+                },
+                {
+                    "label": "PickUp",
+                    "segment": [
+                        93.07,
+                        93.63
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        0.03,
+                        4.5
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        207.33,
+                        207.8
+                    ]
+                }
+            ]
+        },
+        "video_test_0000028": {
+            "duration": 145.97,
+            "frame": 4376,
+            "subset": "validation",
+            "annotations": [
+                {
+                    "label": "BodyBend",
+                    "segment": [
+                        54.77,
+                        54.87
+                    ]
+                },
+                {
+                    "label": "BodyBend",
+                    "segment": [
+                        82.6,
+                        84.27
+                    ]
+                },
+                {
+                    "label": "BodyBend",
+                    "segment": [
+                        86.9,
+                        89.27
+                    ]
+                },
+                {
+                    "label": "BodyBend",
+                    "segment": [
+                        93.03,
+                        93.63
+                    ]
+                },
+                {
+                    "label": "BodyBend",
+                    "segment": [
+                        105.03,
+                        105.4
+                    ]
+                },
+                {
+                    "label": "BodyBend",
+                    "segment": [
+                        126.5,
+                        126.57
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        0.03,
+                        0.63
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        26.13,
+                        30.03
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        34.4,
+                        38.03
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        49.83,
+                        54.7
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        77.27,
+                        82.57
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        89.3,
+                        93.0
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        138.13,
+                        145.87
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        7.97,
+                        8.7
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        11.23,
+                        13.6
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        15.73,
+                        21.6
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        30.07,
+                        31.2
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        42.1,
+                        43.6
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        72.23,
+                        74.17
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        82.8,
+                        89.27
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        127.47,
+                        132.57
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        8.0,
+                        24.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        30.0,
+                        33.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        38.0,
+                        49.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        54.0,
+                        77.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        83.0,
+                        89.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        93.0,
+                        121.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        123.0,
+                        137.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        0.7,
+                        2.2
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        6.07,
+                        7.77
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        24.8,
+                        26.13
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        121.47,
+                        122.77
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        20.0,
+                        24.0
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        29.4,
+                        32.8
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        38.2,
+                        40.2
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        42.2,
+                        44.4
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        45.4,
+                        47.4
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        55.0,
+                        58.5
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        61.4,
+                        64.2
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        66.6,
+                        70.2
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        72.1,
+                        76.8
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        93.5,
+                        96.8
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        99.7,
+                        104.0
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        105.4,
+                        109.4
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        113.9,
+                        117.4
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        131.9,
+                        135.8
+                    ]
+                }
+            ]
+        },
+        "video_test_0000039": {
+            "duration": 227.394,
+            "frame": 6819,
+            "subset": "validation",
+            "annotations": [
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        20.93,
+                        45.77
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        54.4,
+                        196.43
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        0.9,
+                        3.5
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        4.8,
+                        6.9
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        7.3,
+                        8.8
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        11.0,
+                        11.8
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        14.5,
+                        16.0
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        17.3,
+                        18.5
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        45.9,
+                        47.6
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        49.4,
+                        51.8
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        52.8,
+                        54.5
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        66.9,
+                        67.8
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        111.8,
+                        121.0
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        125.9,
+                        127.5
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        159.8,
+                        162.4
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        167.6,
+                        170.2
+                    ]
+                },
+                {
+                    "label": "TennisSwing",
+                    "segment": [
+                        181.0,
+                        184.4
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        18.57,
+                        21.83
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        57.43,
+                        60.93
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        0.03,
+                        4.47
+                    ]
+                }
+            ]
+        },
+        "video_test_0000045": {
+            "duration": 235.439,
+            "frame": 7060,
+            "subset": "validation",
+            "annotations": [
+                {
+                    "label": "Fall",
+                    "segment": [
+                        227.0,
+                        228.0
+                    ]
+                },
+                {
+                    "label": "ThrowDiscus",
+                    "segment": [
+                        1.6,
+                        8.7
+                    ]
+                },
+                {
+                    "label": "ThrowDiscus",
+                    "segment": [
+                        12.6,
+                        23.7
+                    ]
+                },
+                {
+                    "label": "ThrowDiscus",
+                    "segment": [
+                        65.0,
+                        70.6
+                    ]
+                },
+                {
+                    "label": "ThrowDiscus",
+                    "segment": [
+                        93.4,
+                        102.7
+                    ]
+                },
+                {
+                    "label": "ThrowDiscus",
+                    "segment": [
+                        110.9,
+                        113.9
+                    ]
+                },
+                {
+                    "label": "ThrowDiscus",
+                    "segment": [
+                        123.0,
+                        125.4
+                    ]
+                },
+                {
+                    "label": "ThrowDiscus",
+                    "segment": [
+                        129.7,
+                        130.3
+                    ]
+                },
+                {
+                    "label": "ThrowDiscus",
+                    "segment": [
+                        130.8,
+                        131.6
+                    ]
+                },
+                {
+                    "label": "ThrowDiscus",
+                    "segment": [
+                        137.9,
+                        139.8
+                    ]
+                },
+                {
+                    "label": "ThrowDiscus",
+                    "segment": [
+                        171.1,
+                        175.5
+                    ]
+                },
+                {
+                    "label": "ThrowDiscus",
+                    "segment": [
+                        190.7,
+                        194.9
+                    ]
+                },
+                {
+                    "label": "ThrowDiscus",
+                    "segment": [
+                        225.4,
+                        227.9
+                    ]
+                },
+                {
+                    "label": "Sit",
+                    "segment": [
+                        90.07,
+                        102.3
+                    ]
+                },
+                {
+                    "label": "Sit",
+                    "segment": [
+                        104.0,
+                        106.7
+                    ]
+                },
+                {
+                    "label": "Sit",
+                    "segment": [
+                        110.47,
+                        113.67
+                    ]
+                },
+                {
+                    "label": "Sit",
+                    "segment": [
+                        123.43,
+                        124.73
+                    ]
+                },
+                {
+                    "label": "Sit",
+                    "segment": [
+                        103.0,
+                        107.0
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        229.27,
+                        235.33
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        0.03,
+                        38.63
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        43.07,
+                        82.63
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        92.23,
+                        99.53
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        103.27,
+                        106.47
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        113.8,
+                        114.87
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        126.67,
+                        129.2
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        131.67,
+                        137.83
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        137.9,
+                        142.53
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        145.03,
+                        165.23
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        169.6,
+                        179.57
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        180.87,
+                        194.47
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        207.4,
+                        224.77
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        91.0,
+                        100.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        92.0,
+                        101.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        11.0,
+                        12.53
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        42.6,
+                        45.47
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        66.37,
+                        74.03
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        83.33,
+                        92.3
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        104.43,
+                        110.43
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        144.43,
+                        150.13
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        150.77,
+                        152.43
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        166.2,
+                        169.5
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        177.87,
+                        184.63
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        199.63,
+                        205.23
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        6.6,
+                        8.37
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        17.67,
+                        23.97
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        57.2,
+                        63.47
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        68.17,
+                        69.97
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        81.8,
+                        83.6
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        101.97,
+                        102.93
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        113.1,
+                        114.1
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        123.83,
+                        125.33
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        128.0,
+                        129.53
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        130.17,
+                        130.33
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        131.07,
+                        131.63
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        133.57,
+                        137.87
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        139.07,
+                        140.1
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        163.97,
+                        165.53
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        173.23,
+                        175.53
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        194.43,
+                        195.43
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        223.33,
+                        225.13
+                    ]
+                },
+                {
+                    "label": "DiscusRelease",
+                    "segment": [
+                        226.83,
+                        227.87
+                    ]
+                },
+                {
+                    "label": "ShotPutBend",
+                    "segment": [
+                        38.0,
+                        40.0
+                    ]
+                },
+                {
+                    "label": "ShotPutBend",
+                    "segment": [
+                        80.0,
+                        82.0
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        5.6,
+                        6.57
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        13.7,
+                        17.6
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        53.53,
+                        57.17
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        100.83,
+                        101.93
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        110.7,
+                        113.07
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        122.97,
+                        123.8
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        126.97,
+                        127.97
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        129.67,
+                        130.13
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        130.53,
+                        130.77
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        130.8,
+                        131.03
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        131.87,
+                        133.53
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        138.03,
+                        139.03
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        162.83,
+                        163.93
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        172.13,
+                        173.2
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        193.4,
+                        194.4
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        222.03,
+                        223.3
+                    ]
+                },
+                {
+                    "label": "DiscusWindUp",
+                    "segment": [
+                        225.77,
+                        226.8
+                    ]
+                },
+                {
+                    "label": "Shotput",
+                    "segment": [
+                        32.6,
+                        42.0
+                    ]
+                },
+                {
+                    "label": "Shotput",
+                    "segment": [
+                        46.5,
+                        62.5
+                    ]
+                },
+                {
+                    "label": "Shotput",
+                    "segment": [
+                        74.3,
+                        84.8
+                    ]
+                },
+                {
+                    "label": "Shotput",
+                    "segment": [
+                        126.9,
+                        129.4
+                    ]
+                },
+                {
+                    "label": "Shotput",
+                    "segment": [
+                        129.6,
+                        130.3
+                    ]
+                },
+                {
+                    "label": "Shotput",
+                    "segment": [
+                        130.8,
+                        131.6
+                    ]
+                },
+                {
+                    "label": "Shotput",
+                    "segment": [
+                        131.7,
+                        137.7
+                    ]
+                },
+                {
+                    "label": "Shotput",
+                    "segment": [
+                        155.6,
+                        165.1
+                    ]
+                },
+                {
+                    "label": "Shotput",
+                    "segment": [
+                        212.6,
+                        225.1
+                    ]
+                },
+                {
+                    "label": "Shotput",
+                    "segment": [
+                        225.6,
+                        228.5
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        5.7,
+                        6.67
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        14.17,
+                        18.1
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        38.63,
+                        39.73
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        54.3,
+                        57.53
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        67.33,
+                        68.37
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        81.03,
+                        81.93
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        101.17,
+                        102.07
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        111.9,
+                        113.23
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        123.2,
+                        123.97
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        127.17,
+                        128.13
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        129.73,
+                        130.17
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        130.77,
+                        131.1
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        131.97,
+                        133.83
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        138.2,
+                        139.13
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        163.1,
+                        164.07
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        172.4,
+                        173.17
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        193.47,
+                        194.4
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        222.3,
+                        223.37
+                    ]
+                },
+                {
+                    "label": "Throw",
+                    "segment": [
+                        225.87,
+                        226.9
+                    ]
+                },
+                {
+                    "label": "Run",
+                    "segment": [
+                        118.13,
+                        122.93
+                    ]
+                }
+            ]
+        },
+        "video_test_0000046": {
+            "duration": 177.97,
+            "frame": 5336,
+            "subset": "validation",
+            "annotations": [
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        28.57,
+                        174.67
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        0.03,
+                        28.1
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        177.0,
+                        177.87
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        128.1,
+                        132.7
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        147.4,
+                        150.9
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        79.2,
+                        84.0
+                    ]
+                },
+                {
+                    "label": "GolfSwing",
+                    "segment": [
+                        170.5,
+                        173.6
+                    ]
+                }
+            ]
+        },
+        "video_test_0000051": {
+            "duration": 116.112,
+            "frame": 3480,
+            "subset": "validation",
+            "annotations": [
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        0.03,
+                        24.27
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        24.3,
+                        47.97
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        71.3,
+                        76.13
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        98.87,
+                        103.73
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        51.7,
+                        55.8
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        67.3,
+                        70.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        79.8,
+                        82.4
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        93.9,
+                        97.7
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        107.4,
+                        110.0
+                    ]
+                }
+            ]
+        },
+        "video_validation_0000051": {
+            "duration": 169.794,
+            "frame": 5091,
+            "subset": "training",
+            "annotations": [
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        0.2,
+                        19.43
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        93.8,
+                        106.8
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        112.1,
+                        121.03
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        131.33,
+                        135.43
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        149.77,
+                        169.57
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        0.2,
+                        19.43
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        93.8,
+                        106.8
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        112.1,
+                        121.03
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        131.33,
+                        135.43
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        149.77,
+                        169.57
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        0.03,
+                        0.17
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        37.3,
+                        47.93
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        58.77,
+                        63.6
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        123.1,
+                        130.57
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        169.6,
+                        169.7
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        108.0,
+                        110.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        0.03,
+                        31.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        49.0,
+                        58.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        64.0,
+                        98.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        112.0,
+                        113.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        132.0,
+                        145.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        150.0,
+                        168.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        67.5,
+                        75.9
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        85.9,
+                        90.6
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        139.3,
+                        148.2
+                    ]
+                }
+            ]
+        },
+        "video_validation_0000052": {
+            "duration": 166.476,
+            "frame": 4991,
+            "subset": "training",
+            "annotations": [
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        33.73,
+                        34.63
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        33.73,
+                        34.63
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        0.03,
+                        13.6
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        13.97,
+                        23.37
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        24.9,
+                        28.43
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        29.03,
+                        33.0
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        34.67,
+                        37.07
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        150.93,
+                        151.43
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        166.27,
+                        166.37
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        42.2,
+                        44.23
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        59.43,
+                        63.37
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        72.6,
+                        75.9
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        82.63,
+                        85.43
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        93.0,
+                        94.63
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        108.6,
+                        111.9
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        131.57,
+                        132.87
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        134.2,
+                        139.03
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        144.0,
+                        146.67
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        154.9,
+                        156.43
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        22.17,
+                        23.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        33.0,
+                        34.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        38.0,
+                        150.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        24.3,
+                        24.8
+                    ]
+                }
+            ]
+        },
+        "video_validation_0000053": {
+            "duration": 197.301,
+            "frame": 5916,
+            "subset": "training",
+            "annotations": [
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        0.03,
+                        8.1
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        12.8,
+                        20.2
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        25.3,
+                        33.07
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        39.23,
+                        47.1
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        68.23,
+                        71.93
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        79.57,
+                        86.1
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        99.63,
+                        109.67
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        114.87,
+                        123.37
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        130.07,
+                        136.23
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        145.27,
+                        151.43
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        156.23,
+                        161.1
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        166.33,
+                        174.03
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        180.33,
+                        186.5
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        194.37,
+                        197.2
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        91.0,
+                        95.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        56.9,
+                        67.1
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        53.33,
+                        55.67
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        9.1,
+                        13.8
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        22.4,
+                        24.8
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        34.3,
+                        40.1
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        49.7,
+                        53.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        63.6,
+                        68.5
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        74.6,
+                        80.6
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        88.5,
+                        90.7
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        96.7,
+                        99.2
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        112.7,
+                        113.8
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        124.5,
+                        130.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        138.4,
+                        146.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        152.8,
+                        156.1
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        163.9,
+                        166.4
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        175.9,
+                        181.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        188.8,
+                        193.8
+                    ]
+                }
+            ]
+        },
+        "video_validation_0000054": {
+            "duration": 135.103,
+            "frame": 4050,
+            "subset": "training",
+            "annotations": [
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        0.3,
+                        58.8
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        67.13,
+                        124.23
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        130.9,
+                        134.2
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        0.3,
+                        58.8
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        67.13,
+                        124.23
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        130.9,
+                        134.2
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        0.03,
+                        0.27
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        134.23,
+                        135.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        0.03,
+                        13.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        131.17,
+                        134.1
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        16.0,
+                        40.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        42.0,
+                        44.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        69.0,
+                        96.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        98.0,
+                        100.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        103.0,
+                        108.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        13.0,
+                        15.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        40.0,
+                        41.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        44.0,
+                        68.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        96.0,
+                        817.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        100.0,
+                        102.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        108.0,
+                        126.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        129.17,
+                        130.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        34.0,
+                        36.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        126.9,
+                        127.6
+                    ]
+                }
+            ]
+        },
+        "video_validation_0000055": {
+            "duration": 162.871,
+            "frame": 4883,
+            "subset": "training",
+            "annotations": [
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        5.43,
+                        9.4
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        20.1,
+                        20.8
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        32.8,
+                        37.57
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        123.03,
+                        162.77
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        9.0,
+                        10.0
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        79.0,
+                        88.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        22.0,
+                        28.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        52.0,
+                        54.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        65.0,
+                        66.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        102.0,
+                        108.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        0.03,
+                        5.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        11.0,
+                        21.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        41.0,
+                        51.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        59.0,
+                        64.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        66.0,
+                        76.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        93.0,
+                        101.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        108.0,
+                        121.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        28.0,
+                        31.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        89.7,
+                        93.17
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        38.77,
+                        39.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        99.0,
+                        101.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        37.0,
+                        39.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        20.5,
+                        25.6
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        46.8,
+                        51.6
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        58.6,
+                        67.7
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        72.9,
+                        77.2
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        85.6,
+                        90.9
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        95.1,
+                        99.6
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        104.2,
+                        108.4
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        116.8,
+                        121.7
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        127.4,
+                        133.1
+                    ]
+                }
+            ]
+        },
+        "video_validation_0000056": {
+            "duration": 137.741,
+            "frame": 4129,
+            "subset": "training",
+            "annotations": [
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        0.03,
+                        137.63
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        17.4,
+                        24.3
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        27.4,
+                        35.4
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        50.5,
+                        52.7
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        60.1,
+                        62.6
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        72.1,
+                        72.9
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        85.0,
+                        86.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        91.4,
+                        94.8
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        101.8,
+                        106.8
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        120.8,
+                        123.5
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        124.9,
+                        126.7
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        131.2,
+                        131.8
+                    ]
+                }
+            ]
+        },
+        "video_validation_0000057": {
+            "duration": 227.812,
+            "frame": 6831,
+            "subset": "training",
+            "annotations": [
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        10.8,
+                        31.03
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        48.47,
+                        85.87
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        98.67,
+                        131.67
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        144.73,
+                        155.07
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        165.6,
+                        172.93
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        202.33,
+                        209.23
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        221.9,
+                        223.33
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        224.7,
+                        227.7
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        0.03,
+                        1.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        97.0,
+                        98.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        223.37,
+                        224.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        9.4,
+                        11.7
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        43.7,
+                        47.6
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        70.1,
+                        73.7
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        80.4,
+                        83.3
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        91.5,
+                        96.8
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        104.8,
+                        107.1
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        112.7,
+                        117.6
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        140.3,
+                        142.4
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        148.4,
+                        150.1
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        159.7,
+                        163.3
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        185.8,
+                        189.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        196.5,
+                        201.9
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        215.8,
+                        220.8
+                    ]
+                }
+            ]
+        },
+        "video_validation_0000058": {
+            "duration": 132.021,
+            "frame": 3958,
+            "subset": "training",
+            "annotations": [
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        4.0,
+                        9.0
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        21.0,
+                        85.0
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        95.0,
+                        98.0
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        128.0,
+                        130.0
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        4.0,
+                        9.0
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        21.0,
+                        85.0
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        95.0,
+                        98.0
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        12.5,
+                        21.0
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        131.87,
+                        131.93
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        4.0,
+                        9.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        21.0,
+                        48.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        52.0,
+                        53.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        64.0,
+                        78.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        0.1,
+                        4.03
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        54.27,
+                        64.17
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        85.83,
+                        92.17
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        105.1,
+                        108.03
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        116.8,
+                        119.37
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        127.07,
+                        131.37
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        10.9,
+                        11.6
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        82.9,
+                        84.3
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        114.2,
+                        115.9
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        123.7,
+                        126.2
+                    ]
+                }
+            ]
+        },
+        "video_validation_0000059": {
+            "duration": 228.909,
+            "frame": 6864,
+            "subset": "training",
+            "annotations": [
+                {
+                    "label": "ClapHands",
+                    "segment": [
+                        73.0,
+                        74.0
+                    ]
+                },
+                {
+                    "label": "ClapHands",
+                    "segment": [
+                        89.0,
+                        90.0
+                    ]
+                },
+                {
+                    "label": "ClapHands",
+                    "segment": [
+                        107.0,
+                        110.0
+                    ]
+                },
+                {
+                    "label": "ClapHands",
+                    "segment": [
+                        180.0,
+                        182.0
+                    ]
+                },
+                {
+                    "label": "TalkToCamera",
+                    "segment": [
+                        219.87,
+                        228.8
+                    ]
+                },
+                {
+                    "label": "BodyBend",
+                    "segment": [
+                        144.93,
+                        146.27
+                    ]
+                },
+                {
+                    "label": "CloseUpTalkToCamera",
+                    "segment": [
+                        219.87,
+                        228.8
+                    ]
+                },
+                {
+                    "label": "Sit",
+                    "segment": [
+                        71.93,
+                        75.4
+                    ]
+                },
+                {
+                    "label": "Sit",
+                    "segment": [
+                        88.5,
+                        90.83
+                    ]
+                },
+                {
+                    "label": "Sit",
+                    "segment": [
+                        97.83,
+                        110.8
+                    ]
+                },
+                {
+                    "label": "Sit",
+                    "segment": [
+                        130.13,
+                        132.47
+                    ]
+                },
+                {
+                    "label": "Sit",
+                    "segment": [
+                        154.27,
+                        157.5
+                    ]
+                },
+                {
+                    "label": "Sit",
+                    "segment": [
+                        159.93,
+                        163.23
+                    ]
+                },
+                {
+                    "label": "Sit",
+                    "segment": [
+                        179.3,
+                        182.67
+                    ]
+                },
+                {
+                    "label": "Sit",
+                    "segment": [
+                        207.5,
+                        211.03
+                    ]
+                },
+                {
+                    "label": "Sit",
+                    "segment": [
+                        219.93,
+                        228.8
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        0.03,
+                        0.97
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        16.0,
+                        18.43
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        35.27,
+                        37.7
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        46.57,
+                        55.97
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        60.83,
+                        63.23
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        67.5,
+                        71.37
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        75.43,
+                        77.8
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        90.87,
+                        97.8
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        116.07,
+                        118.6
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        137.93,
+                        140.43
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        157.53,
+                        159.9
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        163.27,
+                        164.7
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        182.7,
+                        197.6
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        211.07,
+                        219.4
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        124.0,
+                        129.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        173.0,
+                        175.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        13.6,
+                        15.97
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        33.83,
+                        35.07
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        88.5,
+                        90.77
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        179.47,
+                        182.07
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        207.87,
+                        210.8
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        86.0,
+                        88.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        4.9,
+                        6.7
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        25.6,
+                        27.2
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        42.6,
+                        44.3
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        68.5,
+                        70.3
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        82.8,
+                        84.4
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        90.8,
+                        91.3
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        104.2,
+                        104.8
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        112.1,
+                        113.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        132.6,
+                        134.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        145.5,
+                        146.4
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        170.6,
+                        172.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        183.3,
+                        183.8
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        200.7,
+                        204.5
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        213.4,
+                        215.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        123.0,
+                        124.7
+                    ]
+                }
+            ]
+        },
+        "video_validation_0000060": {
+            "duration": 187.139,
+            "frame": 5611,
+            "subset": "training",
+            "annotations": [
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        9.23,
+                        13.97
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        63.7,
+                        69.47
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        92.0,
+                        93.0
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        110.27,
+                        122.13
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        127.6,
+                        142.33
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        144.07,
+                        152.97
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        161.93,
+                        172.2
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        176.6,
+                        185.2
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        19.0,
+                        20.0
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        22.0,
+                        23.0
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        76.0,
+                        77.0
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        80.0,
+                        83.0
+                    ]
+                },
+                {
+                    "label": "NoHuman",
+                    "segment": [
+                        86.0,
+                        87.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        156.4,
+                        161.27
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        0.03,
+                        5.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        6.0,
+                        8.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        14.0,
+                        16.0
+                    ]
+                },
+                {
+                    "label": "Stand",
+                    "segment": [
+                        36.0,
+                        39.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        31.0,
+                        32.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        56.0,
+                        57.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        104.0,
+                        105.0
+                    ]
+                },
+                {
+                    "label": "Walk",
+                    "segment": [
+                        156.0,
+                        157.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        23.9,
+                        31.2
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        50.2,
+                        56.6
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        60.1,
+                        63.5
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        73.7,
+                        76.7
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        101.0,
+                        105.0
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        123.2,
+                        127.9
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        133.5,
+                        136.4
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        141.6,
+                        145.3
+                    ]
+                },
+                {
+                    "label": "Billiards",
+                    "segment": [
+                        149.2,
+                        152.1
+                    ]
+                }
+            ]
+        }
+    }
+}
